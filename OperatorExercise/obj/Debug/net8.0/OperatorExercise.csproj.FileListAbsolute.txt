@@ -1,0 +1,15 @@
+C:\Users\Parker Sims\Repos\Operators-Exercise\OperatorExercise\bin\Debug\net8.0\OperatorExercise.exe
+C:\Users\Parker Sims\Repos\Operators-Exercise\OperatorExercise\bin\Debug\net8.0\OperatorExercise.deps.json
+C:\Users\Parker Sims\Repos\Operators-Exercise\OperatorExercise\bin\Debug\net8.0\OperatorExercise.runtimeconfig.json
+C:\Users\Parker Sims\Repos\Operators-Exercise\OperatorExercise\bin\Debug\net8.0\OperatorExercise.dll
+C:\Users\Parker Sims\Repos\Operators-Exercise\OperatorExercise\bin\Debug\net8.0\OperatorExercise.pdb
+C:\Users\Parker Sims\Repos\Operators-Exercise\OperatorExercise\obj\Debug\net8.0\OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parker Sims\Repos\Operators-Exercise\OperatorExercise\obj\Debug\net8.0\OperatorExercise.AssemblyInfoInputs.cache
+C:\Users\Parker Sims\Repos\Operators-Exercise\OperatorExercise\obj\Debug\net8.0\OperatorExercise.AssemblyInfo.cs
+C:\Users\Parker Sims\Repos\Operators-Exercise\OperatorExercise\obj\Debug\net8.0\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\Parker Sims\Repos\Operators-Exercise\OperatorExercise\obj\Debug\net8.0\OperatorExercise.sourcelink.json
+C:\Users\Parker Sims\Repos\Operators-Exercise\OperatorExercise\obj\Debug\net8.0\OperatorExercise.dll
+C:\Users\Parker Sims\Repos\Operators-Exercise\OperatorExercise\obj\Debug\net8.0\refint\OperatorExercise.dll
+C:\Users\Parker Sims\Repos\Operators-Exercise\OperatorExercise\obj\Debug\net8.0\OperatorExercise.pdb
+C:\Users\Parker Sims\Repos\Operators-Exercise\OperatorExercise\obj\Debug\net8.0\OperatorExercise.genruntimeconfig.cache
+C:\Users\Parker Sims\Repos\Operators-Exercise\OperatorExercise\obj\Debug\net8.0\ref\OperatorExercise.dll
